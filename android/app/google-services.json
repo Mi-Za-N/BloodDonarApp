@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978237092706",
+    "project_id": "reactnative-bloodapp",
+    "storage_bucket": "reactnative-bloodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978237092706:android:88457a1fa4a2fec8ef723b",
+        "android_client_info": {
+          "package_name": "com.blooddonationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978237092706-4bikv9k5ppr0grh2l7u0d6qgchl6o9o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMfXx85VGsB4XwEBPOgos9RHzED0YlMAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978237092706-4bikv9k5ppr0grh2l7u0d6qgchl6o9o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
